@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, me llamolamo Marcos Tumini</h1>
+<h1 align="center">Hola 👋, me llamo Marcos Tumini</h1>
 <h3 align="center">Soy un Frontend apasionado</h3>
 
 - 💬 Ask me about **html, css, javascript, react**
